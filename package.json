@@ -1,0 +1,16 @@
+{
+  "name": "project_02_tailwind_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.7"
+  }
+}
